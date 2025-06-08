@@ -17,7 +17,7 @@
 
 ## 🔗 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-marylove--rapirap-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/marylove-rapirap)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-marylove--rapirap-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](www.linkedin.com/in/datadiva-marylove)
 [![GitHub](https://img.shields.io/badge/GitHub-datadiva-181717?style=for-the-badge\&logo=github)](https://github.com/datadiva)
 
 * 📧 Email: [marylove1177@icloud.com](mailto:marylove1177@icloud.com)
